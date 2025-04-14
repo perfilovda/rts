@@ -6,5 +6,3 @@
 * [Задание №1](/tasks/task01/task01.md)
 * [Задание №2](/tasks/task02/task02.md)
 * [Задание №3](/tasks/task03/task03.md)
-* [Задание №4](/tasks/task04/task04.md)
-* [Задание №5](/tasks/task05/task05.md)
